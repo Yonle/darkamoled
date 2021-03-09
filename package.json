@@ -1,0 +1,30 @@
+{
+  "name": "darkamoled",
+  "version": "0.0.0",
+  "description": "Turn the lamps off, Relax in the darkness.",
+  "main": "darkamoled.js",
+  "readmeFilename": "README.md",
+  "scripts": {
+    "test": "node darkamoled.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yonle/darkamoled.git"
+  },
+  "keywords": [
+    "DarkAmoled",
+    "DarkMode",
+    "HTML",
+    "Javascript",
+    "Dark",
+    "Black",
+    "BlackTheme",
+    "amoled"
+  ],
+  "author": "Yonle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yonle/darkamoled/issues"
+  },
+  "homepage": "https://github.com/Yonle/darkamoled#readme"
+}
